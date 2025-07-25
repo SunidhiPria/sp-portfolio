@@ -11,7 +11,7 @@ export const Home = () => {
                 Hii, This is Sunidhi
             </h1>
             <p className="text-gray-400 text-lg mb-8 max-w-lg mx-auto">
-                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quasi inventore dolorum nulla accusamus vitae dolor quae veritatis totam assumenda ratione esse repudiandae, facere quo unde delectus est non minus iusto.
+               Fueled by curiosity and creativity, I’m a data-driven developer who codes with purpose and presents with passion—building intuitive tech solutions, designing elegant interfaces, and bringing stories to life through both code and conversation.
             </p>
             <div className="flex justify-center space-x-4">
                 <a href="#projects" 
