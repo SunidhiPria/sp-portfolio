@@ -62,21 +62,27 @@ export const About = () => {
                     </ul>
                 </div>
                 <div className="p-6 rounded-xl border-white/10 border hover:-translate-y-1 transition-all">
-                    <h3 className="text-xl font-bold mb-4"> 💼Work Experience</h3>
+                    <h3 className="text-xl font-bold mb-4"> 💼Achievements</h3>
                     <div className="space-y-4 text-gray-300">
                         <div>
                             <h4 className="font-semibold">
-                                Software Intern at ABC Corp (June-2025)
-                            </h4><p>
-                                Developed and maintained microservices for cloud-based applications.
-                            </p>
+                                JPMC code for good 2025 
+                            </h4>
+                            <ul className="list-disc list-inside text-gray-300 space-y-2">
+                                <li>
+                                    Selected as top 1% among 50,000+ applicants.
+                                </li>
+                                <li>
+                                    Developed a web application to help NGOs manage their operations more efficiently.
+                                </li>
+                            </ul>
                         </div>
                         <div>
-                            <h4 className="font-semibold">
+                            {/* <h4 className="font-semibold">
                                 Software Intern at A Corp (June-2024)
                             </h4><p>
                                 Developed and maintained microservices for web applications.
-                            </p>
+                            </p> */}
                         </div>
                     </div>
                 </div>
